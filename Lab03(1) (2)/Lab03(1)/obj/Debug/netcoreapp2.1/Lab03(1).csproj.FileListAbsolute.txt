@@ -1,0 +1,21 @@
+C:\Users\Bear\Desktop\Lab03(1)\Lab03(1)\obj\Debug\netcoreapp2.1\Lab03(1).csproj.CoreCompileInputs.cache
+C:\Users\Bear\Desktop\Lab03(1)\Lab03(1)\obj\Debug\netcoreapp2.1\Lab03(1).AssemblyInfoInputs.cache
+C:\Users\Bear\Desktop\Lab03(1)\Lab03(1)\obj\Debug\netcoreapp2.1\Lab03(1).AssemblyInfo.cs
+C:\Users\Bear\Desktop\Lab03(1)\Lab03(1)\bin\Debug\netcoreapp2.1\Lab03(1).deps.json
+C:\Users\Bear\Desktop\Lab03(1)\Lab03(1)\bin\Debug\netcoreapp2.1\Lab03(1).runtimeconfig.json
+C:\Users\Bear\Desktop\Lab03(1)\Lab03(1)\bin\Debug\netcoreapp2.1\Lab03(1).runtimeconfig.dev.json
+C:\Users\Bear\Desktop\Lab03(1)\Lab03(1)\bin\Debug\netcoreapp2.1\Lab03(1).dll
+C:\Users\Bear\Desktop\Lab03(1)\Lab03(1)\bin\Debug\netcoreapp2.1\Lab03(1).pdb
+C:\Users\Bear\Desktop\Lab03(1)\Lab03(1)\obj\Debug\netcoreapp2.1\Lab03(1).dll
+C:\Users\Bear\Desktop\Lab03(1)\Lab03(1)\obj\Debug\netcoreapp2.1\Lab03(1).pdb
+E:\Telegram Desktop\Lab03_2\Lab03_2\Lab03_2\Lab03(1)\obj\Debug\netcoreapp2.1\Lab03(1).csprojAssemblyReference.cache
+E:\Telegram Desktop\Lab03_2\Lab03_2\Lab03_2\Lab03(1)\obj\Debug\netcoreapp2.1\Lab03(1).csproj.CoreCompileInputs.cache
+E:\Telegram Desktop\Lab03_2\Lab03_2\Lab03_2\Lab03(1)\obj\Debug\netcoreapp2.1\Lab03(1).AssemblyInfoInputs.cache
+E:\Telegram Desktop\Lab03_2\Lab03_2\Lab03_2\Lab03(1)\obj\Debug\netcoreapp2.1\Lab03(1).AssemblyInfo.cs
+E:\Telegram Desktop\Lab03_2\Lab03_2\Lab03_2\Lab03(1)\obj\Debug\netcoreapp2.1\Lab03(1).dll
+E:\Telegram Desktop\Lab03_2\Lab03_2\Lab03_2\Lab03(1)\obj\Debug\netcoreapp2.1\Lab03(1).pdb
+E:\Telegram Desktop\Lab03_2\Lab03_2\Lab03_2\Lab03(1)\bin\Debug\netcoreapp2.1\Lab03(1).deps.json
+E:\Telegram Desktop\Lab03_2\Lab03_2\Lab03_2\Lab03(1)\bin\Debug\netcoreapp2.1\Lab03(1).runtimeconfig.json
+E:\Telegram Desktop\Lab03_2\Lab03_2\Lab03_2\Lab03(1)\bin\Debug\netcoreapp2.1\Lab03(1).runtimeconfig.dev.json
+E:\Telegram Desktop\Lab03_2\Lab03_2\Lab03_2\Lab03(1)\bin\Debug\netcoreapp2.1\Lab03(1).dll
+E:\Telegram Desktop\Lab03_2\Lab03_2\Lab03_2\Lab03(1)\bin\Debug\netcoreapp2.1\Lab03(1).pdb

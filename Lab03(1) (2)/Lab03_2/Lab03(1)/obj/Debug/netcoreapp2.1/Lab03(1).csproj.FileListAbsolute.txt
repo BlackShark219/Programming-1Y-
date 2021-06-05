@@ -1,0 +1,10 @@
+C:\Users\Bear\Desktop\Lab03(1)\Lab03(1)\obj\Debug\netcoreapp2.1\Lab03(1).csproj.CoreCompileInputs.cache
+C:\Users\Bear\Desktop\Lab03(1)\Lab03(1)\obj\Debug\netcoreapp2.1\Lab03(1).AssemblyInfoInputs.cache
+C:\Users\Bear\Desktop\Lab03(1)\Lab03(1)\obj\Debug\netcoreapp2.1\Lab03(1).AssemblyInfo.cs
+C:\Users\Bear\Desktop\Lab03(1)\Lab03(1)\bin\Debug\netcoreapp2.1\Lab03(1).deps.json
+C:\Users\Bear\Desktop\Lab03(1)\Lab03(1)\bin\Debug\netcoreapp2.1\Lab03(1).runtimeconfig.json
+C:\Users\Bear\Desktop\Lab03(1)\Lab03(1)\bin\Debug\netcoreapp2.1\Lab03(1).runtimeconfig.dev.json
+C:\Users\Bear\Desktop\Lab03(1)\Lab03(1)\bin\Debug\netcoreapp2.1\Lab03(1).dll
+C:\Users\Bear\Desktop\Lab03(1)\Lab03(1)\bin\Debug\netcoreapp2.1\Lab03(1).pdb
+C:\Users\Bear\Desktop\Lab03(1)\Lab03(1)\obj\Debug\netcoreapp2.1\Lab03(1).dll
+C:\Users\Bear\Desktop\Lab03(1)\Lab03(1)\obj\Debug\netcoreapp2.1\Lab03(1).pdb

@@ -1,0 +1,7 @@
+D:\Lab Programming\App#1(15)\Woah\Woah\bin\Debug\Woah.exe.config
+D:\Lab Programming\App#1(15)\Woah\Woah\bin\Debug\Woah.exe
+D:\Lab Programming\App#1(15)\Woah\Woah\bin\Debug\Woah.pdb
+D:\Lab Programming\App#1(15)\Woah\Woah\obj\Debug\Woah.csprojAssemblyReference.cache
+D:\Lab Programming\App#1(15)\Woah\Woah\obj\Debug\Woah.csproj.CoreCompileInputs.cache
+D:\Lab Programming\App#1(15)\Woah\Woah\obj\Debug\Woah.exe
+D:\Lab Programming\App#1(15)\Woah\Woah\obj\Debug\Woah.pdb

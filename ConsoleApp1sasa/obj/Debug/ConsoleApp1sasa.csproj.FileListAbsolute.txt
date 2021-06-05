@@ -1,0 +1,7 @@
+D:\Lab Programming\ConsoleApp1sasa\bin\Debug\ConsoleApp1sasa.exe.config
+D:\Lab Programming\ConsoleApp1sasa\bin\Debug\ConsoleApp1sasa.exe
+D:\Lab Programming\ConsoleApp1sasa\bin\Debug\ConsoleApp1sasa.pdb
+D:\Lab Programming\ConsoleApp1sasa\obj\Debug\ConsoleApp1sasa.csprojAssemblyReference.cache
+D:\Lab Programming\ConsoleApp1sasa\obj\Debug\ConsoleApp1sasa.csproj.CoreCompileInputs.cache
+D:\Lab Programming\ConsoleApp1sasa\obj\Debug\ConsoleApp1sasa.exe
+D:\Lab Programming\ConsoleApp1sasa\obj\Debug\ConsoleApp1sasa.pdb
